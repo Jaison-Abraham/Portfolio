@@ -1,0 +1,148 @@
+{
+  "personal": {
+    "name": "Jaison Abraham",
+    "title": "Web Developer",
+    "subtitle": "Passionate developer transitioning from mobile to web development",
+    "description": "Specializing in React, responsive design, and modern web technologies. Ready to create exceptional user experiences.",
+    "location": {
+      "city": "London",
+      "province": "Ontario", 
+      "country": "Canada",
+      "full": "London, Ontario, Canada"
+    },
+    "contact": {
+      "email": "jaisonabraham8606@gmail.com",
+      "phone": "(437) 551-7297",
+      "phoneRaw": "+14375517297"
+    },
+    "social": {
+      "linkedin": {
+        "url": "https://linkedin.com/in/jaisonabraham437",
+        "username": "jaisonabraham437"
+      },
+      "github": {
+        "url": "https://github.com/Jaison-Abraham",
+        "username": "Jaison-Abraham"
+      }
+    },
+    "availability": {
+      "status": "available",
+      "description": "Available for opportunities",
+      "openTo": [
+        "Web development internships",
+        "Remote or hybrid opportunities", 
+        "Part-time positions",
+        "Freelance projects"
+      ],
+      "workTypes": ["remote", "hybrid", "in-person"],
+      "responseTime": "Usually within 24 hours"
+    }
+  },
+  "education": [
+    {
+      "institution": "Fanshawe College",
+      "location": "London, Ontario",
+      "degree": "Post-Graduate Diploma in Mobile Application Development",
+      "duration": "Sep 2024 – Dec 2025",
+      "status": "current"
+    },
+    {
+      "institution": "Don Bosco College",
+      "location": "Mannuthy, Kerala",
+      "degree": "Bachelor of Science in Computer Science", 
+      "duration": "Jul 2019 – Mar 2022",
+      "status": "completed"
+    }
+  ],
+  "experience": [
+    {
+      "company": "Basha Lebanese Restobar",
+      "location": "London, Ontario",
+      "position": "Line Cook",
+      "duration": "Nov 2024 – Present",
+      "type": "part-time",
+      "description": "Prepared ingredients, maintained kitchen hygiene, and supported service during rush hours. Ensured proper food handling and safety compliance in a fast-paced environment."
+    },
+    {
+      "company": "NorTech Components Ltd.",
+      "location": "Ingersoll, Ontario", 
+      "position": "Production Line Associate",
+      "duration": "Sep 2024 – Dec 2024",
+      "type": "contract",
+      "description": "Operated robotic welding cells, monitored output, and handled quality inspections. Maintained shift records and upheld safety and housekeeping standards."
+    }
+  ],
+  "interests": [
+    "UI/UX Design and Prototyping",
+    "Mobile Game Development", 
+    "Participating in Hackathons",
+    "Learning new web technologies",
+    "Open source contributions",
+    "Tech community involvement"
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "proficiency": "Fluent"
+    },
+    {
+      "language": "Malayalam", 
+      "proficiency": "Native"
+    },
+    {
+      "language": "Hindi",
+      "proficiency": "Conversational"
+    }
+  ],
+  "achievements": [
+    "Successfully completed 3+ mobile app projects",
+    "Transitioned from mobile to web development",
+    "Strong foundation in component-based architecture",
+    "Experience with real-time data synchronization"
+  ],
+  "workPreferences": {
+    "workStyle": "Collaborative and detail-oriented",
+    "environment": "Remote-friendly, innovative, learning-focused",
+    "teamSize": "Small to medium teams",
+    "industries": ["Technology", "Startups", "E-commerce", "SaaS"],
+    "values": ["Innovation", "Quality", "Continuous Learning", "User-Centric Design"]
+  },
+  "careerGoals": {
+    "shortTerm": "Secure a web development internship to gain hands-on experience with modern web technologies and contribute to real-world projects",
+    "longTerm": "Become a full-stack developer specializing in React ecosystem, eventually leading development teams and mentoring junior developers",
+    "learningObjectives": [
+      "Master React and modern JavaScript frameworks",
+      "Gain expertise in backend development with Node.js",
+      "Learn DevOps and deployment best practices", 
+      "Develop strong testing and quality assurance skills"
+    ]
+  },
+  "testimonials": [],
+  "portfolio": {
+    "website": "#",
+    "lastUpdated": "2025-08-13",
+    "version": "1.0.0"
+  },
+  "meta": {
+    "keywords": [
+      "Web Developer",
+      "React Developer", 
+      "Mobile Developer",
+      "JavaScript",
+      "React Native",
+      "Swift",
+      "Frontend Developer",
+      "UI/UX",
+      "Responsive Design",
+      "London Ontario"
+    ],
+    "description": "Jaison Abraham - Web Developer in London, Ontario. Specializing in React, JavaScript, and modern web technologies. Available for internships and development opportunities.",
+    "seo": {
+      "title": "Jaison Abraham - Web Developer | React & JavaScript Specialist",
+      "description": "Passionate web developer in London, Ontario specializing in React, responsive design, and modern web technologies. Open to internship opportunities.",
+      "ogTitle": "Jaison Abraham - Web Developer Portfolio",
+      "ogDescription": "Explore my web development projects and skills. Specializing in React, JavaScript, and responsive design.",
+      "ogImage": "assets/images/og-image.jpg"
+    }
+  }
+}

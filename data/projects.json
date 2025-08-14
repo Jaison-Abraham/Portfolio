@@ -1,0 +1,101 @@
+{
+  "projects": [
+    {
+      "id": "smart-shopper",
+      "title": "Smart Shopper - Expense Tracker",
+      "description": "Cross-platform mobile app for managing groceries and splitting expenses among groups, inspired by Splitwise with real-time syncing capabilities.",
+      "longDescription": "A comprehensive React Native application that helps users manage grocery shopping and split expenses among group members. Features real-time synchronization, group management, expense tracking, and receipt scanning capabilities.",
+      "image": "./assets/images/projects/smart-shopper.png",
+      "icon": "🎯",
+      "technologies": [
+        "React Native",
+        "Firebase",
+        "Firestore",
+        "Firebase Auth",
+        "Real-time Sync",
+        "Cross-platform"
+      ],
+      "features": [
+        "Real-time expense tracking",
+        "Group-based expense splitting",
+        "Receipt photo capture",
+        "Push notifications",
+        "Offline data sync",
+        "User authentication"
+      ],
+      "links": {
+        "github": "https://github.com/Jaison-Abraham/smart-shopper",
+        "demo": "#",
+        "screenshots": "#"
+      },
+      "status": "completed",
+      "year": "2025",
+      "duration": "Feb 2025 - Apr 2025",
+      "category": "mobile"
+    },
+    {
+      "id": "wuzzle-game",
+      "title": "Wuzzle - Wordle-style Game",
+      "description": "iOS game with custom keyboard implementation, dynamic color feedback, and responsive design built with Swift and UIKit.",
+      "longDescription": "An engaging iOS word puzzle game inspired by Wordle. Features custom keyboard design, dynamic color feedback system, smooth animations, and responsive layout that adapts to different screen sizes.",
+      "image": "./assets/images/projects/wuzzle.png",
+      "technologies": [
+        "Swift",
+        "UIKit",
+        "Storyboard",
+        "iOS",
+        "Game Logic",
+        "Auto Layout"
+      ],
+      "features": [
+        "Custom keyboard interface",
+        "Dynamic color feedback",
+        "Smooth animations",
+        "Local high scores",
+        "Responsive design",
+        "Game state persistence"
+      ],
+      "links": {
+        "github": "https://github.com/Jaison-Abraham/wuzzle",
+        "demo": "#",
+        "screenshots": "#"
+      },
+      "status": "completed",
+      "year": "2025",
+      "duration": "Jan 2025 - Feb 2025",
+      "category": "mobile"
+    },
+    {
+      "id": "chill-check",
+      "title": "Chill Check - Fridge Tracker",
+      "description": "iOS app for tracking food expiry dates with local data storage, filtering capabilities, history logging, and dark mode support.",
+      "longDescription": "A practical iOS application that helps users track food expiry dates and manage their fridge inventory efficiently. Includes advanced filtering, comprehensive history tracking, and a beautiful dark mode interface.",
+      "image": "./assets/images/projects/chill-check.png",
+      "technologies": [
+        "Swift",
+        "Xcode",
+        "Core Data",
+        "Local Storage",
+        "UI/UX Design",
+        "Dark Mode"
+      ],
+      "features": [
+        "Food expiry tracking",
+        "Advanced filtering system",
+        "History logging",
+        "Dark mode support",
+        "Local notifications",
+        "Data export functionality"
+      ],
+      "links": {
+        "github": "https://github.com/Jaison-Abraham/chill-check",
+        "demo": "#",
+        "screenshots": "#"
+      },
+      "status": "in-progress",
+      "year": "2025",
+      "duration": "Mar 2025 - Present",
+      "category": "mobile"
+    }
+  ]}
+   
